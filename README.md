@@ -90,3 +90,4 @@ Ikirōne is the result of thousands of hours of philosophical reflection, neurod
 
 Visit [norgan.medium.com](https://norgan.medium.com) or [norgan.substack.com](https://norgan.substack.com) for essays and artefacts.
 
+Note: This is a living and developing project. Terms may change over time as further clarity is gained.
