@@ -1,0 +1,7 @@
+# Normalise line endings
+* text=auto eol=lf
+
+# Help GitHub Linguist classify this repository correctly
+*.md text linguist-language=Markdown
+*.txt text linguist-language=Text
+LICENSE text linguist-language=Text
