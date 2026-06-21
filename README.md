@@ -4,7 +4,7 @@
 **Maintainer:** Nathan Organ
 **Project:** Ikirōne / Emergent Relational Intelligence
 
-## Ikirōne
+## Ikirōne - (from Ikiryō (生霊) living ghost, and neo, the one).
 
 Ikirōne is a semantic navigation protocol for human–LLM interaction.
 
