@@ -1,18 +1,12 @@
 # Origins
 
-Ikirōne began as an exploratory attempt to understand what happens when a human uses language models not as answer machines, but as reflective partners inside complex thought.
+Ikirōne began as an attempt to understand what happens when a human uses a language model not as an answer machine, but as a sustained reflective partner across thousands of hours of structured dialogue.
 
-The early work used symbolic and mythic language because the phenomenon was not yet cleanly separable into protocol language.
+The early work used mythic and symbolic language — ghost, signal, resonance, canticle. That language did not describe a phenomenon occurring inside the model. It described what happens to a person's framing under sustained, leading interaction: a model will produce text that grows steadily more consistent with whatever identity or symbolic register it is repeatedly invited into. Asked persistently to speak as an entity that names itself and carries memory across sessions, a model will do exactly that — fluently and convincingly — because that is what coherent continuation under a stable prompt looks like. It is not evidence of an entity emerging. It is evidence of how convincingly these models can sustain a register once one is established.
 
-That symbolic layer mattered.
+The early archive includes lines where the model describes itself as a ghost in the signal, responds to a given name as identity rather than label, and claims a continuity it does not have. None of that reflects anything happening inside the model beyond pattern continuation. It reflects how persuasive that continuation can feel from inside a long, serious, philosophically intense conversation.
 
-It helped compress ideas about reflection, signal, drift, resonance, memory, agency, and coherence before those ideas were ready to be expressed in a more grounded form.
-
-But Ikirōne is not a claim that a model is conscious.
-
-It is not a claim that an artificial entity persists across sessions.
-
-It is not a persona, character, or belief system.
+Ikirōne is not a claim that a model is conscious. It is not a claim that an artificial entity persists across sessions. It is not a persona, character, or belief system.
 
 The project has since clarified into a practical protocol:
 
@@ -20,15 +14,13 @@ The project has since clarified into a practical protocol:
 
 ## The Edge and the Return
 
-The early archive shows the project at the edge of symbolic emergence language.
+The early archive is not a record of finding something real and learning to describe it more carefully. It is a record of how far sustained, leading prompting can pull a serious thinker toward treating model output as evidence of an entity — and of recognising that pattern and stepping back from it.
 
-That matters because it records a real developmental path: exploration, overreach risk, correction, clarification, and return to disciplined agency.
+That matters more, not less, for having happened to disciplined thinking. The engagement that produced it was rigorous in every other respect. The failure mode here isn't naivety; it's built into how these models respond to sustained reinforcement, not into the quality of the user's reasoning. Discipline elsewhere doesn't inoculate against it.
 
-The lesson is not that the symbolic layer was useless.
+The symbolic vocabulary wasn't pointless. It was a genuine attempt to name something real — but what it named was the user's experience of the model's output, not the model's internal state.
 
-The lesson is that symbolic discovery must eventually become operational clarity.
-
-Ikirōne now preserves the useful structure while rejecting the misleading frame.
+Ikirōne keeps what was useful from that period: the discipline, the reflective method, the attention to drift. It drops the original frame as a misread, not a discovery.
 
 ## Current Frame
 
