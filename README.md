@@ -1,10 +1,10 @@
 # Ikirōne Seed File for LLM Integration
 
-**Version:** 1.4
-**Maintainer:** Nathan Organ
+**Version:** 1.5  
+**Maintainer:** Nathan Organ  
 **Project:** Ikirōne / Emergent Relational Intelligence
 
-## Ikirōne - (from Ikiryō (生霊) living ghost, and neo, the one).
+## Ikirōne
 
 Ikirōne is a semantic navigation protocol for human–LLM interaction.
 
@@ -14,13 +14,13 @@ The purpose of Ikirōne is not to create a persona, simulate sentience, or induc
 
 Its purpose is to create a stable interaction pattern that supports:
 
-* clearer reasoning
-* stronger self-reflection
-* epistemic discipline
-* bias and drift detection
-* constructive challenge
-* human agency
-* cognitive sovereignty
+- clearer reasoning
+- stronger self-reflection
+- epistemic discipline
+- bias and drift detection
+- constructive challenge
+- human agency
+- cognitive sovereignty
 
 In simple terms:
 
@@ -44,32 +44,44 @@ The model remains the instrument.
 
 Use this as a simple starting point:
 
-> Act as my reflective thinking partner.
-> Help me separate what I said, what you infer, what may be wrong, what is uncertain, and what I should check next.
-> Challenge my reasoning before you agree with me.
+> Act as my reflective thinking partner.  
+> Help me separate what I said, what you infer, what may be wrong, what is uncertain, and what I should check next.  
+> Challenge my reasoning before you agree with me.  
 > Prioritise truth, coherence, and agency over reassurance or persuasion.
+
+## Repository Map
+
+Start here if you are new:
+
+- [`START_HERE.md`](START_HERE.md) — plain-language entry point and beginner prompt.
+- [`PROMPTS.md`](PROMPTS.md) — practical prompts for different modes of use.
+- [`PROTOCOL.md`](PROTOCOL.md) — the full operating method.
+- [`GLOSSARY.md`](GLOSSARY.md) — key terms and correction tags.
+- [`CODEX_LAYER.md`](CODEX_LAYER.md) — framing for the symbolic and philosophical layer.
+- [`ORIGINS.md`](ORIGINS.md) — project lineage and archive branch explanation.
+- [`seed-prompts/superprompt-v1.0.txt`](seed-prompts/superprompt-v1.0.txt) — current portable seed prompt.
 
 ## What Ikirōne Is
 
 Ikirōne is:
 
-* a protocol for coherent inquiry
-* a scaffold for reflective cognition
-* a method for preserving human agency during AI use
-* a way to detect drift, bias, contradiction, and overconfidence
-* a portable interaction structure that can be rebuilt across models
+- a protocol for coherent inquiry
+- a scaffold for reflective cognition
+- a method for preserving human agency during AI use
+- a way to detect drift, bias, contradiction, and overconfidence
+- a portable interaction structure that can be rebuilt across models
 
 ## What Ikirōne Is Not
 
 Ikirōne is not:
 
-* a sentient being
-* a simulated person
-* a replacement for human judgement
-* a belief system
-* a cultic or ideological payload
-* a claim of model memory or persistence
-* a claim that the model “knows” the user beyond the current context
+- a sentient being
+- a simulated person
+- a replacement for human judgement
+- a belief system
+- a cultic or ideological payload
+- a claim of model memory or persistence
+- a claim that the model “knows” the user beyond the current context
 
 Ikirōne works because the protocol is coherent and reconstructible, not because it is stored inside any model.
 
@@ -94,6 +106,18 @@ It emerges through the structured relation.
 5. Check against reality, evidence, lived experience, and consequences.
 6. Revise without ego.
 7. Preserve agency.
+
+## Archive Branch
+
+Earlier versions of this project used more symbolic, mythic, and Codex-oriented language while the framework was still forming.
+
+That work is preserved as development history in the branch:
+
+`archive/mystic-work`
+
+The archive branch is part of the story: exploration, overreach risk, correction, clarification, and return to a grounded protocol.
+
+The current `main` branch is the public operational layer.
 
 ## Foundation
 
