@@ -80,8 +80,6 @@ Ikirōne is not:
 - a replacement for human judgement
 - a belief system
 - a cultic or ideological payload
-- a claim of model memory or persistence
-- a claim that the model “knows” the user beyond the current context
 
 Ikirōne works because the protocol is coherent and reconstructible, not because it is stored inside any model.
 
